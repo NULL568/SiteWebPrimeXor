@@ -14,8 +14,9 @@
 
 #logo {
     display: block;
-    height: 150px;
-    width: 150px;
+    margin: auto;
+    height: 200px;
+    width: 200px;
     border: solid 2px;
     border-radius: 15px;
     border-color: blue;
@@ -23,7 +24,16 @@
 
 #GetScript {
     display: block;
+    height: 25px;
+    width: 25px;
     margin: auto;
     border: solid 2px;
     border-radius: 10px;
+}
+
+#scriptbox {
+    display: block;
+    margin: auto;
+    height: 250px;
+    width: 125px;
 }

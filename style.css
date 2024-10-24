@@ -14,8 +14,8 @@
 
 #logo {
     display: block;
-    height: 10px;
-    width: 10px;
+    height: 150px;
+    width: 150px;
     border: solid 2px;
     border-radius: 15px;
     border-color: blue;
@@ -24,4 +24,6 @@
 #GetScript {
     display: block;
     margin: auto;
+    border: solid 2px;
+    border-radius: 10px;
 }

@@ -25,7 +25,7 @@
 #GetScript {
     color: greenyellow;
     display: block;
-    height: 25px;
+    height: 50px;
     width: 25px;
     margin: auto;
     border: solid 2px;
@@ -36,6 +36,6 @@
 #scriptbox {
     display: block;
     margin: auto;
-    height: 250px;
-    width: 125px;
+    height: 500px;
+    width: 250px;
 }

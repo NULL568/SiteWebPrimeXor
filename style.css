@@ -1,4 +1,6 @@
 #MainName {
+    display: block;*
+    margin: auto;
     text-align: center;
     border: solid 3px;
     border-color: blue;

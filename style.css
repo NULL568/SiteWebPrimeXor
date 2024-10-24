@@ -25,8 +25,8 @@
 #GetScript {
     color: greenyellow;
     display: block;
-    height: 50px;
-    width: 25px;
+    height: 25px;
+    width: 100px;
     margin: auto;
     border: solid 2px;
     border-radius: 10px;
@@ -37,5 +37,5 @@
     display: block;
     margin: auto;
     height: 500px;
-    width: 250px;
+    width: 1000px;
 }

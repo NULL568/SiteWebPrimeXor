@@ -23,7 +23,8 @@
 }
 
 #GetScript {
-    color: rgb(0,0,0);
+    background-color: black;
+    color: greenyellow);
     display: block;
     height: 25px;
     width: 100px;
